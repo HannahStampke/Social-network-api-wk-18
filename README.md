@@ -1,6 +1,16 @@
 # Social Network API
 
-## Your Task
+### GitHub URL: https://github.com/HannahStampke/Note-taker-wk-11
+
+## User Story
+
+```md
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
+```
+
+## Description
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.
 
@@ -10,10 +20,33 @@ No seed data is provided, so you’ll need to create your own data using Insomni
 
 Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
 
-## User Story
+## Errors
+I can't get the database to work. :(
 
-```md
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
-```
+# Table of Contents
+
+- [Applications](#applications)
+
+- [Questions](#questions)
+
+
+# Applications
+- JavaScript
+- GitHub
+- Node.js
+- insomnia
+- mongodb
+- mongosh
+- express
+- moment
+
+
+# Questions 
+For any questions and comments please reach out to me through email at:
+- hannah.stampke@gmail.com
+
+
+# Links
+To view my other projects visit:
+- [Hannah](https://github.com/HannahStampke)
+
