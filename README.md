@@ -1,6 +1,7 @@
 # Social Network API
 
-### GitHub URL: https://github.com/HannahStampke/Note-taker-wk-11
+### GitHub URL: https://github.com/HannahStampke/Social-network-api-wk-18
+### Live Video URL: https://drive.google.com/file/d/110nkLjmaJLu2XplJidZSa84dpH11rc5W/view
 
 ## User Story
 
